@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Yan Silveira",
+    "cidade": "Montezuma",
+    "email": "yansilveira89@gmail.com"
+  },
+  {
+    "id": 2,
+    "nome": "Arthur Porto",
+    "cidade": "Salinas",
+    "email": "arthurporto@gmail.com"
+  },
+  {
+    "id": 3,
+    "nome": "Lucas Botelho",
+    "cidade": "Montes Claros",
+    "email": "lucasbotelho22@gmail.com"
+  },
+  {
+    "id": 4,
+    "nome": "Bruno Miranda",
+    "cidade": "Janaúba",
+    "email": "mirandabruno@gmail.com"
+  },
+  {
+    "id": 5,
+    "nome": "Lívia Araújo",
+    "cidade": "Rio Pardo de Minas",
+    "email": "liviaarauj@hotmail.com"
+  }
+]
