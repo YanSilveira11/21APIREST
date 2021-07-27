@@ -1,9 +1,24 @@
 {
-  "name": "21APIREST",
+  "name": "21apirest",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanSilveira11/21APIREST.git"
+  },
+  "author": "Yan Silveira",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "bugs": {
+    "url": "https://github.com/YanSilveira11/21APIREST/issues"
+  },
+  "homepage": "https://github.com/YanSilveira11/21APIREST#readme",
+  "devDependencies": {},
+  "description": ""
 }
