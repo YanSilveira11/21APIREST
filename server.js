@@ -17,11 +17,7 @@ app.use(cors());
 // PUT: Atualizar
 // DELETE: Deletar
 
-let port = process.env.PORT;
-if (port == null || port == "") {
-  port = 8000;
-}
-app.listen(port);
+app.listen(process.env.PORT || 3000, console.log("Servidor up"));
 
 app.get("/clientes", function (req, res) {
   res.json(data);
